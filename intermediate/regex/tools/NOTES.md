@@ -30,7 +30,7 @@ Cloning the repo actually just works.
 
 Some open questions and possible tasks:
 
-- [ ] integrate it in the "bc" repository, it is currently 112kB (unminified)
+- [x] integrate it in the "bc" repository, it is currently 112kB (unminified)
 - [x] keep a script around to update it from the regexpal repository
 - [x] clean up and style it for software carpentry (keep credit) (in a branch)
   - [x] logo etc
