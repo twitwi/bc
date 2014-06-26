@@ -30,10 +30,11 @@ Cloning the repo actually just works.
 
 Some open questions and possible tasks:
 
-- [ ] integrate it in the "bc" repository, it is currently 104kB (unminified)
-- [ ] keep a script around to update it from the regexpal repository
-- [ ] clean up and style it for software carpentry (keep credit) (in a branch)
-  - [ ] logo etc
-  - [ ] bigger size by default?
+- [ ] integrate it in the "bc" repository, it is currently 112kB (unminified)
+- [x] keep a script around to update it from the regexpal repository
+- [x] clean up and style it for software carpentry (keep credit) (in a branch)
+  - [x] logo etc
+  - [x] bigger size by default? (not for now)
+- [ ] we probably need a full style rewrite (dropping the default style from regexpal)
 - [ ] add buttons (or "select") to preload content or regexps (kind of custom)
 
